@@ -1,0 +1,10 @@
+body {
+    background-image: url("./img/cyberpunkBackground.jpg");
+    margin: 0;
+    overflow: hidden;
+}
+
+.b2 {
+    opacity: 0.00;
+    transform: scale(4);
+}
